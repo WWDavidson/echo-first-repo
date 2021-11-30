@@ -8,3 +8,8 @@ I think I'm starting to understand how to `push` to `GitHub`
 
 
 ```I think I'm going to like this class!!```
+
+This is what I had for lunch
+- yogurt w/ fruit
+- protein shake
+- coffee 
