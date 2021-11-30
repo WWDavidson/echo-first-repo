@@ -2,4 +2,9 @@
 
 ## This is going to be a fun class!
 
-### I'm not sure what else to put 
+### I'm not sure what else to put
+
+Here are some awesome folks in my class
+-Noah
+-Regina
+-Kirk
