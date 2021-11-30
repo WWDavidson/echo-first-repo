@@ -14,4 +14,6 @@ This is what I had for lunch
 - protein shake
 - coffee
 
-What did you have for `lunch`? I hope it was good! 
+What did you have for `lunch`? I hope it was good!
+
+`Cooper` is the name of my dog. What is the `name` of your pet?
