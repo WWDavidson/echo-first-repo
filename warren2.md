@@ -3,3 +3,5 @@
 here I am highlighting a section.
 
 ```Here is the section I'm highlighting```
+
+I think I'm starting to understand how to `push` to `GitHub`
