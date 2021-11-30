@@ -12,4 +12,6 @@ I think I'm starting to understand how to `push` to `GitHub`
 This is what I had for lunch
 - yogurt w/ fruit
 - protein shake
-- coffee 
+- coffee
+
+What did you have for `lunch`? I hope it was good! 
