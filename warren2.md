@@ -17,3 +17,5 @@ This is what I had for lunch
 What did you have for `lunch`? I hope it was good!
 
 `Cooper` is the name of my dog. What is the `name` of your pet?
+
+[The super awesome syllabus](https://github.com/learn-academy-2021-echo/Syllabus/blob/main/github/github.md)
